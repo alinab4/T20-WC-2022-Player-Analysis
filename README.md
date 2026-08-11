@@ -117,3 +117,7 @@ T20-WC-Player-Analysis/
 ## 📌 Project Focus
 
 The primary objective of this project is to demonstrate **Python-based sports data analysis**, including data cleaning, transformation, exploratory analysis, aggregation, and visualization of T20 World Cup player performance.
+
+## Author
+
+Alina Butt 
